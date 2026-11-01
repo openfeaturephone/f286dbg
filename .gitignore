@@ -1,0 +1,10 @@
+# build output
+out/
+*.bin
+*.elf
+*.o
+__pycache__/
+*.pyc
+# things the tools write: screenshots, files pulled off the phone, partition dumps
+*.png
+dumps/
